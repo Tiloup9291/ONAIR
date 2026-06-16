@@ -17,7 +17,7 @@ SYNC! : Preamble detection;<br>
 ONAIR : Protocol magic number;<br>
 Length : Length of the payload;<br>
 Flags : Whether payload is encrypted or not;<br>
-Recipient : Recipient to which the message is distined;<br>
+Recipient : Recipient to which the message is destined;<br>
 Sender : Sender/Your local identification of the message;<br>
 Message : Message to be send;<br>
 (Filter span + 2) alternating of QAM order diagonal corners : Postamble of the frame;<br>
