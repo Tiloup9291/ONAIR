@@ -47,3 +47,4 @@ The modem detect the carrier. It then search the preambule to synchronize the fr
 7. QAM order from 2 to 65536.<br>
 8. Constellation in Gray Code.<br>
 9. State ring-buffer.<br>
+10. Phase-Locked Loop.<br>
