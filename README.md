@@ -37,7 +37,7 @@ The modem detect the carrier. It then search the preambule to synchronize the fr
 3. The quality of devices matters (Example : speakers and microphones).<br>
 4. The quality of the transportation media matters (Example : air).<br>
 5. Environment noise impact demodulation. Higher noise = harder to demodulate.<br>
-6. Depending of drivers, OS and devies, disable all automatic sound processing feature (Example : AGC, noise reduction, echo reduction).<br>
+6. Depending of drivers, OS and devices, disable all automatic sound processing features (Example : AGC, noise reduction, echo reduction).<br>
 ### Technologies included
 1. FFT and squelch carrier detector.<br>
 2. Correlation detector.<br>
